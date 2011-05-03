@@ -4,13 +4,14 @@ ARDUINO
 This is my personal dump for Arduino source codes.
 I publish videos from my Arduino tests in my YouTube channel (http://www.youtube.com/user/markokaartinen)
 
-The code is well code and there may not be any comments but I try to keep it simple to read.
+The code is what it is and there may not be any comments but I try to keep it simple to read.
 If you have any questions, please ask, there is Issues page for that purpose.
 
 Please give tips and tricks to me! Also you can give feedback for me!
 
-Small update for this README.
 You can find my Arduino vids directly from this playlist: http://www.youtube.com/view_play_list?p=CF386E94CB5B8BC8
+
+I will do some testing with these things: temperature, light, LED, RFID, DSLR Camera and other things. Please suggest!
 
 Yours,
 Marko Kaartinen
