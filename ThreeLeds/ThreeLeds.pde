@@ -1,3 +1,10 @@
+/*
+*  My first test with Arduino - Three leds
+*  Author: Marko Kaartinen
+*  Www: www.markokaartinen.info
+*  E-mail: markokaartinen@gmail.com
+*/
+
 int yellowPin = 8;
 int redPin = 9;
 int greenPin = 10;

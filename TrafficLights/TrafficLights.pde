@@ -1,6 +1,12 @@
-//Traffic lights with pedestrian lights and sound
-//Ped = pedestrian
-//piezo buzzer code from http://www.arduino.cc/en/Tutorial/Melody
+/*
+*  Traffic lights
+*  Author: Marko Kaartinen
+*  Www: www.markokaartinen.info
+*  E-mail: markokaartinen@gmail.com
+*
+*  Traffic lights with pedestrian lights and sound
+*  Piezo buzzer code from http://www.arduino.cc/en/Tutorial/Melody
+*/
 
 //speakerpin
 int speakerPin = 4;

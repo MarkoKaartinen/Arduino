@@ -1,3 +1,10 @@
+/*
+*  My second test with Arduino - Button and leds
+*  Author: Marko Kaartinen
+*  Www: www.markokaartinen.info
+*  E-mail: markokaartinen@gmail.com
+*/
+
 int inPin = 2;
 int gLed1 = 7;
 int gLed2 = 8;
